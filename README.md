@@ -1,9 +1,3 @@
-# Financial Economics
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
 <body>
 <p align="center"><span style="font-size: x-large;">Financial Economics</span></p>
 
