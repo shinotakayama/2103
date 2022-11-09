@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Financial Economics</title>
+
 </head>
 <body>
 <p align="center"><span style="font-size: x-large;">Financial Economics</span></p>
-<p align="center"><span style="font-size: x-large;">Some Slides</span></p>
+
 <p><font size="4">The materials are based on <a title="" href="https://www.wiley.com/en-au/Financial+Economics-p-9780470596203">Financial Economics</a>.</font></p>
 <p><a title="" href="lec1.pdf"><span style="font-size: large;">Lecture 1</span></a> Introduction and consumer financial decisions</p>
 <p><a title="" href="lec2.pdf"><span style="font-size: large;">Lecture 2</span></a> Creating wealth by investing in productive opportunities</p>
